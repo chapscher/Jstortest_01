@@ -17,15 +17,15 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Hello, I am here to talk about Star Trek. If you do not know about Star Trek, [Documentation](https://en.wikipedia.org/wiki/Star_Trek) and [applied examples](https://archiveofourown.org/tags/Star%20Trek:%20The%20Original%20Series/works) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://hips.hearstapps.com/pop.h-cdn.co/assets/16/26/4000x2000/landscape-1467144815-starshipenterprise.jpg">
 
 # Basic usage
 
 ## Let's Talk About Narrative Potential
 
-Look, I know it's a very me thing to say, but I think that we can utilize this technology for fandom. I mean, I know that fanlore does this better and has a more accessible layout. But I'm not talking about nonfiction fan writing, I'm talking about fan fiction. Look at him. He looks at the camera like how he looks at Spock, with an unexamined lust deep in his eyes. God, think of the possibilities.[^1]
+Look, I know it's a very me thing to say, but I think that we can utilize this technology for fandom. I mean, I know that fanlore does this better and has a more accessible layout. But I'm not talking about nonfiction fan writing, I'm talking about fan fiction. Look at him. He looks at the camera like how he looks at Spock, with an unexamined lust deep in his eyes. God, think of the possibilities.[^1] Honestly, the world's not ready. I'm not ready. But what the hell do I know?
 <param ve-image 
        label="Captain Kirk" 
        description="an image of William Shatner as Captain Kirk" 
