@@ -23,11 +23,9 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Image
+## Let's Talk About Narrative Potential
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Look, I know it's a very me thing to say, but I think that we can utilize this technology for fandom. I mean, I know that fanlore does this better and has a more accessible layout. But I'm not talking about nonfiction fan writing, I'm talking about fan fiction. Look at him. He looks at the camera like how he looks at Spock, with an unexamined lust deep in his eyes. God, think of the possibilities.[^1]
 <param ve-image 
        label="Captain Kirk" 
        description="an image of William Shatner as Captain Kirk" 
