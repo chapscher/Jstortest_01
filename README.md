@@ -1,4 +1,4 @@
-# Jstortest_01
+
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
@@ -15,7 +15,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Star Trek Introductory Resources
 
 Hello, I am here to talk about Star Trek. If you do not know about Star Trek, [Documentation](https://en.wikipedia.org/wiki/Star_Trek) and [applied examples](https://archiveofourown.org/tags/Star%20Trek:%20The%20Original%20Series/works) are available for reference.
 <param ve-image 
@@ -34,9 +34,8 @@ Look, I know it's a very me thing to say, but I think that we can utilize this t
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Kirk was born in Riverside, Iowa, in the year 2233. Riverside was the location of the Riverside Shipyard, where the USS Enterprise was constructed. 
+<param ve-map center="Q1925824" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
