@@ -2,9 +2,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Chap's Talkin' 'bout Star Trek Again"
+       author="Chap"
+       banner="https://cdn.shopify.com/s/files/1/0018/7337/9427/collections/StarTrek_collection_banner_1920x300-General_ce52d0c7-f0fc-4856-bcc5-7d22aa5b268c_1400x.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
